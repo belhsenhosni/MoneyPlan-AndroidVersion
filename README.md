@@ -1,0 +1,2 @@
+# MoneyPlan-AndroidVersion
+MoneyPlan est une application mobile simple qui vous aide à gérer votre propre argent, vous pouvez consulter ce que vous avez dépensé pour avoir une idée globale de vos transactions. MoneyPlan vous aide également à atteindre vos objectifs et vos souhaits financiers. Accompagné d'un backend (NodeJS) et d'une base de données (SQL server). Développée en Android et iOS, disponible sur le Galaxy Store et l'App Store. Technologies: Android, Java, nodeJS, SQL.
